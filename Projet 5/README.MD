@@ -398,4 +398,4 @@ http://localhost:8501
 
 
 
-Le projet montre qu’un modèle de Machine Learning classique peut déjà donner de bons résultats sur des données tabulaires, sans utiliser de réseau de neurones.
+
